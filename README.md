@@ -30,7 +30,7 @@ I am a Software Engineering student with a strong interest in web development, I
 
 * Applied data structure concepts and problem-solving techniques
 
-*(More projects coming soon...)
+ (More projects coming soon...)
 
 ---
 
